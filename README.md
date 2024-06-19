@@ -4,7 +4,7 @@
 
 Este GITHUD está destinado a ser utilizado como portfólio para reconhecimento e guardar recursos necessários tanto para a minha pessoa quanto aos que precisam.
 
-■ Sistemas Operacionais
+■ Sistemas Operacionais ■ 
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Win. XP](https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white)
