@@ -13,3 +13,4 @@ Este GITHUD está destinado a ser utilizado como portfólio para reconhecimento 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?logo=Aseprite&logoColor=white)
