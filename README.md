@@ -1,5 +1,5 @@
 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ 
-🎉 - 22 𝓪𝓷𝓸𝓼 (02/062002) <br>
+ 22 𝓪𝓷𝓸𝓼 (02/062002) <br>
 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ 
 
 Este GITHUD está destinado a ser utilizado como portfólio para reconhecimento e guardar recursos necessários tanto para a minha pessoa quanto aos que precisam.
